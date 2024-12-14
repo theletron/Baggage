@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This is an unofficial fork of Satchel. Use at your own risk.
+
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/SatchelWhite.png">
