@@ -24,7 +24,7 @@ body:
       description: What actually happened instead? If you have a screenshot or video, attach them.
       placeholder: When I do this, it instead does that
   - type: textarea
-    id: repro-steps
+    id: repro-stepsfor-the-badge
     attributes:
       label: Steps to reproduce
       description: How can we reproduce the issue?
@@ -50,7 +50,7 @@ body:
     id: version
     attributes:
       label: Version
-      description: What version does your bug occur on?
+      description: What version of Baggage does your bug occur on?
       placeholder: 1.0.0
   - type: dropdown
     id: severity
@@ -78,20 +78,7 @@ body:
     id: distribution
     attributes:
       label: Distribution variant
-      description: Where did you get Satchel from?
+      description: Where did you get Baggage from?
       options:
-        - Roblox Developer Forum
-        - Creator Marketplace
-        - Satchel Playground
-        - ToolBlocks
+        - Creator Store
         - GitHub
-        - Wally
-        - Other
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Code of Conduct
-      description: This project has a Code of Conduct that all participants are expected to understand and follow.
-      options:
-        - label: I have read and agree to the project's [Code of Conduct](https://github.com/RyanLua/Satchel?tab=coc-ov-file)
-          required: true
