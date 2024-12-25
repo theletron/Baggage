@@ -8,11 +8,11 @@
 
 <div style="text-align: center;">
 
-  [![Release][shield-release]][../../releases]
-  [![License][shield-license]][./LICENSE.txt]
+  [![Release][shield-release]](../../releases)
+  [![License][shield-license]](./LICENSE.txt)
 
   [![Download-CreatorStore][mb-robloxdev]][robloxdev]
-  [![Download-GitHub][mb-github]][../../releases/latest]
+  [![Download-GitHub][mb-github]](../../releases/latest)
 </div>
 
 Baggage is a modern open-source alternative to Roblox's default backpack. Baggage aims to be more customizable and easier to use than the default backpack while still having a vanilla feel.
