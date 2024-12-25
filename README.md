@@ -6,7 +6,7 @@
     <img alt="Baggage logo" src="assets/BaggageLight.png#gh-light-mode-only">
 </div>
 
-<div style="text-align: center;">
+<div align="center">
 
   [![Release][shield-release]](../../releases)
   [![License][shield-license]](./LICENSE.txt)
