@@ -8,11 +8,11 @@
 
 <div style="text-align: center;">
 
-  [![Release](shield-release)](../../releases)
-  [![License](shield-license)](./LICENSE.txt)
+  [![Release][shield-release]][../../releases]
+  [![License][shield-license]][./LICENSE.txt]
 
-  [![Download-CreatorStore](mb-robloxdev)](robloxdev)
-  [![Download-GitHub](mb-github)](../../releases/latest)
+  [![Download-CreatorStore][mb-robloxdev]][robloxdev]
+  [![Download-GitHub][mb-github]][../../releases/latest]
 </div>
 
 Baggage is a modern open-source alternative to Roblox's default backpack. Baggage aims to be more customizable and easier to use than the default backpack while still having a vanilla feel.
@@ -31,7 +31,7 @@ Baggage looks similar to [Roblox's new Chrome UI](devforum-chromeui), while stil
   <img alt="Baggage on computer matching Roblox's UI design" src="./assets/" style="width: 49%;">
 </div>
 
-### 🖌️ Highly Customizable & Versatile
+### Highly Customizable & Versatile
 
 Baggage is highly customizable & adjustable with instance attributes support allowing you to customize the behavior and appearance of Baggage. Change the color, transparency, behavior and more of it's elegantly designed UI.
 
@@ -39,7 +39,7 @@ Baggage is highly customizable & adjustable with instance attributes support all
   <img alt="Baggage with a customized UI to have a red tint" src="./assets/" style="width: 49%;">
 </div>
 
-### 📱 Improved Mobile Experience
+### Improved Mobile Experience
 
 Baggage expands the mobile experience by doubling the number of slots so that mobile players are not at a disadvantage.
 
@@ -47,7 +47,7 @@ Baggage expands the mobile experience by doubling the number of slots so that mo
   <img alt="Baggage on mobile with 6 hotbar slots" src="./assets/" style="width: 49%;">
 </div>
 
-### ⚫ Topbar Plus Support
+### Topbar Plus Support
 
 Baggage supports [TopbarPlus](devforum-topbarplus) to restore original functionality of the old backpack. This feature can be turned off in Baggage, unlike Satchel.
 
@@ -63,8 +63,7 @@ Installation of Baggage is easy and painless. Baggage is a drag-and-drop module 
 
 <summary>**1. Creator Store (Recommended)**</summary>
 
-1. Get Baggage from the Creator Store.
-[![Download-CreatorStore](mb-robloxdev)](robloxdev)
+1. Get Baggage from the [Creator Store](robloxdev).
 
 2. Open or locate [Toolbox](rs-toolbox).
 
@@ -81,8 +80,7 @@ Installation of Baggage is easy and painless. Baggage is a drag-and-drop module 
 > [!WARNING]
 > The GitHub release binary does not have package support, which means you will have to update Baggage manually if you implement it this way.
 
-1. Download `Baggage.rbxmx` file from the latest release.
-[![Download-GitHub](mb-github)](../../releases/latest)
+1. Download `Baggage.rbxmx` file from [the latest release](../../releases/latest).
 
 2. Right click on [StarterPlayerScripts](rs-sps) and click on `"Insert from file..."`
 
@@ -142,7 +140,7 @@ Satchel offers access to some of its internal methods and events for scripting p
 !-->
 
 [shield-release]:       https://img.shields.io/github/v/release/theletron/Baggage?include_prereleases&logo=robloxstudio&logoColor=white&color=00a2ff&style=for-the-badge
-[shield-license]:       https://img.shields.io/github/license/RyanLua/Satchel?logo=mozilla&color=00a2ff&style=for-the-badge
+[shield-license]:       https://img.shields.io/github/license/theletron/Baggage?logo=mozilla&color=00a2ff&style=for-the-badge
 [mb-robloxdev]:         https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/bb4634715f95ebb209b4e0bcdd4d2d98fe64c64c/roblox_dev.svg
 [mb-github]:            https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/bb4634715f95ebb209b4e0bcdd4d2d98fe64c64c/github.svg
 
